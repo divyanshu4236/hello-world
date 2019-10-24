@@ -1,4 +1,4 @@
 # hello-world
 Just another Repository
 
-hey guys i study in delhi technoligical university
+hey guys i study in Delhi Technological University
